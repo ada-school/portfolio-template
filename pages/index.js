@@ -41,8 +41,8 @@ export default function Home() {
           </CoverText>
           <ExperienceBox
             date="Agosto 2002-2010"
-            position="Desarrolladora de sistema, Clinica Montalvo"
-            place="Londres, Reino Unido"
+            position="Desarrolladora de software, Clinica Montalvo"
+            place="Santa Cruz, Bolivia"
           >
             Diseño, desarrollo e implementacion del sistema de gestion de la clínica
           </ExperienceBox>
