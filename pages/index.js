@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ada Lovelace - Portfolio</title>
+        <title>Valentina Bacherer - Portfolio</title>
         <link rel="icon" href="/favicon-96x96.png" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
@@ -28,23 +28,23 @@ export default function Home() {
       <Layout>
         <LeftColumn>
           <Header
-            name="Ada Lovelace"
-            position="Matemática y escritora"
+            name="Valentina Bacherer"
+            position="Ingeniera Industrial y desarrolladora"
             profilePicture="/img/profile-pic.jpg"
           />
           <CoverText>
-            Hola soy Ada, la condesa de Lovelace. Soy una matemática y
-            escritora. Me interesan los modelos matemáticos en especial los
-            relacionados con el sistema nervioso humano. Considero que la
-            computación es más que números, creo que puede aplicarse a otros
+            Hola soy Valentina Bacherer, la condesa de Lovelace. Soy una ingeniera y
+            artista visual. Me interesa la tecnología y el arte, ambos son mundos donde 
+            la creatividad es muy importante, y es posible contribuir con ideas novedosas.
+            Considero que la computación es más que números, creo que puede aplicarse a otros
             campos como el arte y la música.
           </CoverText>
           <ExperienceBox
-            date="Diciembre 1843"
-            position="Matemática"
+            date="Agosto 2002-2010"
+            position="Desarrolladora de sistema, Clinica Montalvo"
             place="Londres, Reino Unido"
           >
-            Escritura del primer algoritmo de computación
+            Diseño, desarrollo e implementacion del sistema de gestion de la clínica
           </ExperienceBox>
           <ExperienceBox
             date="Enero 1842"
@@ -65,11 +65,11 @@ export default function Home() {
             <SkillsItem>123-456-789</SkillsItem>
             <SkillsItem>
               <a
-                href="mailto:ada@ada-school.org"
+                href="mailto:valentina.bacherer@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                ada@ada-school.org
+                valentina.bacherer@gmail.com
               </a>
             </SkillsItem>
             <SkillsItem>
@@ -86,16 +86,10 @@ export default function Home() {
             </SkillsItem>
           </SkillsList>
           <SkillsList name="Lenguajes y Frameworks" icon={DiCode}>
-            <SkillsItem>React</SkillsItem>
-            <SkillsItem>Node.js</SkillsItem>
             <SkillsItem>JavaScript</SkillsItem>
-            <SkillsItem>MongoDB</SkillsItem>
-            <SkillsItem>PWA</SkillsItem>
-            <SkillsItem>Typescript</SkillsItem>
+            <SkillsItem>Filemaker</SkillsItem>
           </SkillsList>
           <SkillsList name="Habilidades técnicas" icon={FaTools}>
-            <SkillsItem>TDD</SkillsItem>
-            <SkillsItem>Continuous Deployment</SkillsItem>
             <SkillsItem>SCRUM</SkillsItem>
           </SkillsList>
           <SkillsList name="Habilidades Blandas" icon={RiUserVoiceFill}>
@@ -103,14 +97,15 @@ export default function Home() {
             <SkillsItem>Touch typing</SkillsItem>
             <SkillsItem>Trabajo en equipo</SkillsItem>
           </SkillsList>
+          <SkillsList name="Herramientas diseño" icon={RiUserVoiceFill}>
+            <SkillsItem>Photoshop</SkillsItem>
+          </SkillsList>
           <SkillsList name="Intereses" icon={FaFlagCheckered}>
-            <SkillsItem>Inteligencia artificial</SkillsItem>
+            <SkillsItem>Fotografía</SkillsItem>
             <SkillsItem>Patrones de UI / UX</SkillsItem>
-            <SkillsItem>AR / VR</SkillsItem>
           </SkillsList>
           <SkillsList name="Idiomas" icon={BsChatFill}>
             <SkillsItem>Inglés</SkillsItem>
-            <SkillsItem>Francés</SkillsItem>
             <SkillsItem>Español</SkillsItem>
           </SkillsList>
         </RightColumn>
