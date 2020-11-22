@@ -34,8 +34,7 @@ export default function Home() {
           />
           <CoverText>
             Hola soy Valentina Bacherer. Soy ingeniera y fotógrafa, y me apasiona la vida en todas sus facetas. 
-            Admiro la creatividad con la
-            que todos los seres humanos nacemos, que nos ha vuelo capaces de transformar nuestro entorno y llevar a 
+            Admiro la creatividad con la que todos los seres humanos nacemos, que nos ha vuelo capaces de transformar nuestro entorno y llevar a 
             cabo obras monumentales a lo largo de toda la historia, asi como de construirnos a nosotros mismos y nunca parar 
             de crecer y aprender cosas nuevas. Me gusta mucho leer e investigar, y me interesa la tecnología tanto como
              el arte, ya que ambos son mundos infinitos, donde se pone en juego la capacidad de invención de nuestras mentes
