@@ -29,15 +29,17 @@ export default function Home() {
         <LeftColumn>
           <Header
             name="Valentina Bacherer"
-            position="Ingeniera Industrial y desarrolladora"
+            position="Ing. Industrial y Desarrolladora de software"
             profilePicture="/img/profile-pic.jpg"
           />
           <CoverText>
-            Hola soy Valentina Bacherer, la condesa de Lovelace. Soy una ingeniera y
-            artista visual. Me interesa la tecnología y el arte, ambos son mundos donde 
-            la creatividad es muy importante, y es posible contribuir con ideas novedosas.
-            Considero que la computación es más que números, creo que puede aplicarse a otros
-            campos como el arte y la música.
+            Hola soy Valentina Bacherer. Soy ingeniera y fotógrafa, y me apasiona la vida en todas sus facetas. 
+            Admiro la creatividad con la
+            que todos los seres humanos nacemos, que nos ha vuelo capaces de transformar nuestro entorno y llevar a 
+            cabo obras monumentales a lo largo de toda la historia, asi como de construirnos a nosotros mismos y nunca parar 
+            de crecer y aprender cosas nuevas. Me gusta mucho leer e investigar, y me interesa la tecnología tanto como
+             el arte, ya que ambos son mundos infinitos, donde se pone en juego la capacidad de invención de nuestras mentes
+             y donde es posible contribuir con ideas novedosas que incorporan un toque personal.
           </CoverText>
           <ExperienceBox
             date="Agosto 2002-2010"
